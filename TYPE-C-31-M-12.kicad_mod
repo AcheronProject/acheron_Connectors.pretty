@@ -43,7 +43,7 @@
   (pad "A1" smd roundrect (at -3.25 0.725) (locked) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 873f76ef-97a3-4bd6-bdb8-65c822748422))
   (pad "A4" smd roundrect (at -2.45 0.725) (locked) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ec6cce18-7af2-414f-bf25-2efec9725d70))
   (pad "A5" smd roundrect (at -1.25 0.725) (locked) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a366743f-af0f-4686-bd27-1406c60d0ada))
-  (pad "A6" smd roundrect (at -0.254 0.725) (locked) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9ca17ced-4bb8-4bc9-b11f-c6e037d1fe7b))
+  (pad "A6" smd roundrect (at -0.25 0.725) (locked) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9ca17ced-4bb8-4bc9-b11f-c6e037d1fe7b))
   (pad "A7" smd roundrect (at 0.25 0.725) (locked) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ad6a7f9e-8b5e-4d82-8ebc-4c3f88830463))
   (pad "A8" smd roundrect (at 1.25 0.725) (locked) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c2ba1446-d4fe-4c9f-bbf6-e8f37b0c4f7a))
   (pad "B1" smd roundrect (at 3.25 0.725) (locked) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 80b0cb62-d1cf-44f1-aab8-d43c3a60d886))
