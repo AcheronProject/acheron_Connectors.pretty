@@ -1,6 +1,6 @@
 (footprint "SM04B-SRSS-TB(LF)(SN)_mounting-reliefs" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr smd)
+  (attr through_hole)
   (fp_text reference "REF**" (at 0 -3 -180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.2)))
     (tstamp 84c593fe-da6a-4f3e-931e-67cb31211e26)
